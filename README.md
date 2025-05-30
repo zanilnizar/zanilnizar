@@ -9,7 +9,7 @@ Exploring bugs, breaking stuff (sometimes on purpose 😅), and building things 
 
 🚀 Dreaming of deploying cool stuff that actually works
 
-💡 Motto: “Google > StackOverflow > Panic” 😄
+💡 Motto: “ChatGPT will solve it!” 😄
 
 Let’s connect, build, and maybe cry over broken builds together 👨‍💻☕
 
